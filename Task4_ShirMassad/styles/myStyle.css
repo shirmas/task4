@@ -1,0 +1,95 @@
+body 
+{
+    direction:rtl;
+    margin:0 auto;
+   text-align:center;
+   background-color:#ebf1f7;
+
+}
+
+
+
+h1{
+color:#4b7e98;
+font-size:50px;
+font-family:Tahoma;
+margin:20px;
+font-family: 'Assistant', sans-serif;
+
+}
+
+form:hover{
+    text-shadow: 2px 2px 2px #B3B3B3;
+
+}
+
+h2{
+    font-family: 'Assistant', sans-serif;
+    padding-bottom:8px;
+    font-size:35px;
+
+}
+
+h3{
+    font-family: 'Assistant', sans-serif;
+        font-size:25px;
+
+}
+
+p{
+    font-family: 'Assistant', sans-serif;
+        font-size:20px;
+
+}
+
+ul{
+margin-bottom:10px;
+    font-family: 'Assistant', sans-serif;
+    font-size:20px;
+
+}
+
+li{
+        font-family: 'Assistant', sans-serif;
+        list-style-type:disc;
+
+}
+
+
+#first{
+font-family: 'Assistant', sans-serif;
+    margin-bottom:30px;
+
+
+
+}
+
+a{
+    color:#0a1992;
+}
+
+a:hover{
+    color:#ebf1f7;
+    background-color:#4b7e98;
+}
+#second
+{
+    font-family: 'Assistant', sans-serif;
+
+}
+form {
+    border:2px solid white;
+    box-shadow:0 0 3px #b29e9e;
+    width:250px;
+    background:#cdeaf8;
+    margin:10px auto;
+    padding:10px;
+    overflow:auto;
+    font-family: 'Assistant', sans-serif;
+
+}
+
+ label{
+font-family: 'Assistant', sans-serif;
+font-family: 'Suez One', serif;
+ }
